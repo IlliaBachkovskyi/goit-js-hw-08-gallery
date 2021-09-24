@@ -1,4 +1,5 @@
-const galleryItems = [
+export
+  const galleryItems = [
     {
       preview:
         'https://cdn.pixabay.com/photo/2019/05/14/16/43/himilayan-blue-poppy-4202825__340.jpg',
@@ -62,4 +63,4 @@ const galleryItems = [
         'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
       description: 'Lighthouse Coast Sea',
     },
-  ];
+];
